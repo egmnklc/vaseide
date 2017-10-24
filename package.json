@@ -1,0 +1,15 @@
+{
+  "name": "vaserealtimeapi",
+  "version": "1.0.0",
+  "description": "Vase Real-Time API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crucoding",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
